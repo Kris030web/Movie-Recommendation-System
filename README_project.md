@@ -1,6 +1,11 @@
-# Movie Recommendation System
 # 🎬 Movie Recommendation System
+## Group Members
+Ivana Momanyi- 672411
+Tasha Kwasira- 673696
+Ahmed Abdi- 674296
+Christian Abijuru Cyusa-673918
 
+# Project Description
 This project is a simple yet effective *movie recommendation system* built using Python. It explores *content-based filtering* and *collaborative filtering* to recommend movies to users based on movie metadata and simulated user preferences.
 
 ## 📌 Problem Statement
@@ -70,5 +75,4 @@ For a movie in the user-item matrix:
 
 - Recommended: Movie A, Movie B, Movie C, ...
 
-## 🗂 Project Structure
  
