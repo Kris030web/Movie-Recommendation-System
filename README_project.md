@@ -1,8 +1,9 @@
 # 🎬 Movie Recommendation System
 ## Group Members
 Ivana Momanyi- 672411
+
 Tasha Kwasira- 673696
-Ahmed Abdi- 674296
+
 Christian Abijuru Cyusa-673918
 
 # Project Description
